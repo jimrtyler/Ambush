@@ -1373,4 +1373,4 @@ function Generate-HTMLReport {
 }
 
 
-Set-AmbushUsers -Path "C:\Users\Jim\Downloads\Users" -count 5 -Report
+#Set-AmbushUsers -Path "C:\Users\Jim\Downloads\Users" -count 5 -Report
